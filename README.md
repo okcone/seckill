@@ -6,3 +6,7 @@
 2. [Java高并发秒杀API之Service层](http://www.imooc.com/learn/631)
 3. [Java高并发秒杀API之web层](http://www.imooc.com/learn/630)
 4. [Java高并发秒杀API之高并发优化](http://www.imooc.com/learn/632)
+
+
+# Redis博客
+https://blog.csdn.net/sinat_22797429/article/details/89196933
